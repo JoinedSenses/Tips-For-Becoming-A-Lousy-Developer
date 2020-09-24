@@ -3,6 +3,7 @@
 
 - Don't spend time researching or testing before asking questions.
 - Don't even think about reading your error logs.
+- If you get the urge to read errors, don't. Just copy-paste half of it and ask others for help.
 - Ignore documentation and instructions.
 - Try posting your message in multiple, unrelated discord channels for better visibility.
 - Make sure to tag `@everyone` or admins to ensure qualified people see your message.
@@ -25,4 +26,3 @@
 - Don't waste your time trying to learn git or how to make repositories.
 - Stick with using just a basic text editor such as notepad.
 - Ignore compilation warnings.
-- Don't read compilation errors, just copy-paste them and ask others for help.
