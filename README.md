@@ -1,5 +1,5 @@
-# Tips-For-Becoming-A-Pro-Developer
-### This is a compiled list of suggestions on how to become a *pro* developer in no time.
+# Tips-For-Becoming-A-Lousy-Developer
+### This is a compiled list of suggestions on how to become a lousy developer in no time.
 
 - Don't spend time researching or testing before asking questions.
 - Don't even think about reading your error logs.
