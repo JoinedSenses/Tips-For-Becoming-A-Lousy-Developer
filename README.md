@@ -7,6 +7,7 @@
 - Ignore documentation and instructions.
 - Try posting your message in multiple, unrelated discord channels for better visibility.
 - Make sure to tag `@everyone` or admins to ensure qualified people see your message.
+- If you don't get a reply within two minutes, make sure to repeatedly mention users and ask your question again.
 - Be vague when asking to help. The less details, the better.
 - If you figured it out, don't tell others how you solved it.
 - Don't take care of yourself, don't rest, don't take breaks, eat poorly, dont drink water.
