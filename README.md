@@ -10,7 +10,8 @@
 - If you don't get a reply within a few minutes, ask your question again.
 - Be vague when asking to help. The less details, the better.
 - If something unexpected happens, say only that it's "not working" or "broken". (No details!)
-- If you figured it out, don't tell others how you solved it.
+- Show as little code as possible. Someone might steal it.
+- If you figured out a problem, don't tell others how you solved it.
 - Don't take care of yourself, don't rest, don't take breaks, eat poorly, don't drink water.
 - Resist learning from your mistakes.
 - If you disagree with someones ideas or suggestions, call them gay.
@@ -25,6 +26,8 @@
 - Use meaningless variable names or make them a single character (eg `char x[]`)
 - Get in the habit of copy-pasting everything and don't spend time understanding what the code does.
 - Don't make back ups.
-- Don't waste your time trying to learn git or how to make repositories.
+- Don't waste your time trying to learn git, version control, or how to make repositories.
+- Push all changes directly to production or commit directly to master without testing anything to save time.
+- The less testing you do, the less bugs there would've been.
 - Stick with using just a basic text editor such as notepad.
 - Ignore compilation warnings.
