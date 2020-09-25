@@ -28,6 +28,6 @@
 - Don't make back ups.
 - Don't waste your time trying to learn git, version control, or how to make repositories.
 - Push all changes directly to production or commit directly to master without testing anything to save time.
-- The less testing you do, the less bugs there would've been.
+- The less testing you do, the less bugs there are.
 - Stick with using just a basic text editor such as notepad.
 - Ignore compilation warnings.
