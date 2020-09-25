@@ -9,6 +9,7 @@
 - Make sure to tag `@everyone` or admins to ensure qualified people see your message.
 - If you don't get a reply within a few minutes, ask your question again.
 - Be vague when asking to help. The less details, the better.
+- If something unexpected happens, say only that it's "not working" or "broken". (No details!)
 - If you figured it out, don't tell others how you solved it.
 - Don't take care of yourself, don't rest, don't take breaks, eat poorly, don't drink water.
 - Resist learning from your mistakes.
