@@ -10,7 +10,7 @@
 - If you don't get a reply within a few minutes, ask your question again.
 - Be vague when asking to help. The less details, the better.
 - If you figured it out, don't tell others how you solved it.
-- Don't take care of yourself, don't rest, don't take breaks, eat poorly, dont drink water.
+- Don't take care of yourself, don't rest, don't take breaks, eat poorly, don't drink water.
 - Resist learning from your mistakes.
 - If you disagree with someones ideas or suggestions, call them gay.
 - Delay updates for as long as possible.
