@@ -31,3 +31,4 @@
 - The less testing you do, the less bugs there are.
 - Stick with using just a basic text editor such as notepad.
 - Ignore compilation warnings.
+- If applicable, always use the old syntax of the programming language to write your code.
